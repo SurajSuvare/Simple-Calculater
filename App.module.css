@@ -1,0 +1,37 @@
+
+
+.calculater{
+  margin: 5rem 0 0 5rem;
+  border: none;
+  padding: 1rem;
+    height: 530px;
+    width: 400px;
+    box-shadow: 0px 0px 40px grey;
+    border-radius: 1rem;
+    padding-left: 1rem;
+  
+}
+
+
+.calculater:hover {
+  animation: bannera 4s linear  infinite alternate;
+}
+
+@keyframes bannera{
+  0%{
+      box-shadow: 0px 0px 2rem #18dde1;
+      
+}50%{
+  box-shadow: 0px 0px 2rem #e92918;
+  
+}
+100%{
+  box-shadow: 0px 0px 2rem #1849e9;
+  
+}
+}  
+
+
+
+
+

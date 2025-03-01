@@ -1,0 +1,29 @@
+.buttonsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+
+  .calButton{
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin: 0.5rem;
+    height: 70px;
+    width: 70px;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+    color: black;
+    box-shadow: 0 0 1rem grey;
+  }
+
+  #bigbtn{
+    height: 50px;
+    width: 160px;
+    margin: 0.5rem;
+    font-size: 1.7rem;
+    font-weight: 700;
+  }
+
+  

@@ -1,0 +1,17 @@
+.display{
+    height: 80px;
+    width: 365px;
+    border-radius: 1rem;
+    font-size: 1.7rem;
+    font-weight: 700;
+    padding-left: 1rem;
+    background-color: grey;
+    color: #fff;
+    text-align: right;
+    padding-right: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  input::placeholder {
+    color: rgba(240, 248, 255, 0.5);
+}
